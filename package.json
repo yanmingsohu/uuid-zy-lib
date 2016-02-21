@@ -1,0 +1,22 @@
+{
+  "name": "uuid-zy-lib",
+  "version": "0.1.2",
+  "description": "uuid lib",
+  "main": "index.js",
+  "scripts": {
+    "start": "node test/test.js",
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "private"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "jym",
+  "license": "ISC",
+  "dependencies": {
+    "node-uuid": "^1.4.3"
+  }
+}
