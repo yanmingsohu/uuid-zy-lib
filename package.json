@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "private"
+    "url": "https://github.com/yanmingsohu/uuid-zy-lib"
   },
   "keywords": [
     "no"
   ],
   "author": "jym",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "node-uuid": "^1.4.3"
   }
